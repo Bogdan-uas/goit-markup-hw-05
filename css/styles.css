@@ -557,12 +557,6 @@ h2 {
 
 .footer-form {
         display: flex;
-        gap: 24px;
-}
-
-.footer-form {
-        display: flex;
-        gap: 24px;
 }
 
 .footer-email-input {
@@ -600,6 +594,8 @@ h2 {
         border: none;
         border-radius: 4px;
         transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+        margin-left: 24px;
 }
 
 .footer-subscribe-button:hover,
