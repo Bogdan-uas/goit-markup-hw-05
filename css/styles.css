@@ -560,9 +560,8 @@ h2 {
         gap: 24px;
 }
 
-.footer-label {
+.footer-form {
         display: flex;
-        flex-direction: row;
         gap: 24px;
 }
 
